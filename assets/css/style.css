@@ -239,7 +239,7 @@ h1.title {
 }
 
 footer {
-    background-color: var(--dark);
+    background-color:var(--dark);
     padding: 30px 0;
     text-align: center;
 
