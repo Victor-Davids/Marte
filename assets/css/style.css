@@ -28,6 +28,7 @@ nav ul {
             color: var(--secondary);
         }
     }
+
 }
 
 #banner {
@@ -56,16 +57,17 @@ nav ul {
 }
 
 h1.title {
-  font-size: 50px;
+  font-size: 80px;
   font-weight: 500;
-  margin-top: 50px;
+  margin-top: 40px;
+  color: var(--light);
 }
 
 #problema {
     background-color: var(--light);
-    padding: 50px 40px;
+    padding: 40px 40px;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
 
