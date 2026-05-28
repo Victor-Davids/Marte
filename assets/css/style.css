@@ -25,16 +25,15 @@ nav ul {
         transition: all .5s ease;
     
         &:hover {
-            color: var(--primary);
+            color: var(--secondary);
         }
     }
 }
 
 #banner {
-    background-image: url(../imagens\ Marte.jpg);
+    background-image: url(../imagens/Marte.jpg);
     height: 100vh;
     background-size: cover;
-    
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -42,7 +41,7 @@ nav ul {
 
     &::before {
         content: '';
-        background-color: #ffffff80;
+        background-color:rgba(255, 175, 84, 0.5);
         position: absolute;
         top: 0;
         left: 0;
