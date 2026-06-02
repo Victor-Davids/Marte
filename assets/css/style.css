@@ -81,6 +81,7 @@ h1.title {
     img {
         height: 400px;
         object-fit: contain;
+        gap: 20px;
     }
 }
 
