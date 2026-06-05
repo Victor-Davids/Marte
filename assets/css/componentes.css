@@ -7,6 +7,18 @@
   line-height: 1.5;
   letter-spacing: 0.5px;
   color: var(--dark);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.text-light {
+  font-family: var(--text);
+  font-size: var(--text-size);
+  font-weight: 800;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  color: var(--light);
 }
 
 .text-light {
@@ -66,3 +78,4 @@
   display: flex;
   gap: 20px;
 }
+

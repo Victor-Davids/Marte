@@ -25,6 +25,12 @@
   font-weight: 400;
   line-height: 1.2;
   letter-spacing: -0.5px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
-
+.collumn {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
